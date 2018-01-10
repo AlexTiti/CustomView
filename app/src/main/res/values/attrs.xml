@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TouchPullView">
+        <attr name="maxPullHeight" format="integer"></attr>
+        <attr name="minWidthPull" format="integer"/>
+        <attr name="circleRadius" format="integer"/>
+        <attr name="max_degree"  format="integer"/>
+        <attr name="control_height" format="integer"/>
+        <attr name="color" format="color"/>
+    </declare-styleable>
+</resources>
